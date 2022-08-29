@@ -50,3 +50,13 @@ html{
    cursor: pointer;
    color:yellow;
  }
+
+.phone{
+  text-decoration: none;
+  color: gold;
+}
+
+.phone:hover{
+  color:lemonchiffon;
+  cursor: pointer;
+}
